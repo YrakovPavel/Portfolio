@@ -1,0 +1,13 @@
+.content {
+  display: flex;
+  height: 100vh;
+  flex-direction: column;
+}
+
+.header {
+  flex: 1 1 auto;
+}
+
+.main {
+  flex: 1 1 auto;
+}
